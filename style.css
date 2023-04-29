@@ -83,13 +83,6 @@ header a{
     top: 807px;
 
 }
-.button{
-    display: flex;
-    padding: 16px 40px;
-    position: absolute;
-    background: #FF6433;
-    border-radius: 12px;
-}
 
 .main2{
     position: absolute;
@@ -119,24 +112,6 @@ header a{
     font-size: 58px;
     line-height: 76px;
     color: #1E1B1B;
-}
-.button1{
-    display: flex;
-    flex-direction: row;
-    align-items: flex-start;
-    padding: 16px 40px;
-    gap: 10px;
-
-    position: absolute;
-    left: 16.72%;
-    right: 70.16%;
-    top: 7.61%;
-    bottom: 91.57%;
-
-    /* Primary */
-
-    background: #FF6433;
-    border-radius: 12px;
 }
 
 .img3{
